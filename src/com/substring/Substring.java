@@ -9,5 +9,6 @@ public class Substring {
 		String s2 ="Welcome to java class";
 		String b =s2.substring(0, 7);
 		System.out.println(b);
+		System.out.println("done");
 	}
 }
